@@ -51,7 +51,7 @@ input[type=text], input[type=password] {
 
 button {
   background-color: #04AA6D;
-  color: white;
+  color: green;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -75,7 +75,7 @@ button:hover {
 }
 
 img.avatar {
-  width: 40%;
+  width: 60%;
   border-radius: 50%;
 }
 
